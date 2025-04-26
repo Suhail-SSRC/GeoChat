@@ -1,0 +1,3 @@
+[2025-04-09 03:20:27,350] [INFO] [real_accelerator.py:110:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+Loading GeoChat......
+{'image_id': '00060', 'question': '{<87><34><91><35>|<90>}', 'dataset': 'SIOR', 'question_id': 'sior_31', 'type': 'ref', 'obj_ids': [1], 'size_group': 'small', 'ground_truth': 'small ship'}

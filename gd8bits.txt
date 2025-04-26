@@ -1,0 +1,3 @@
+[2025-04-08 22:13:30,468] [INFO] [real_accelerator.py:110:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+Loading GeoChat......
+{'image_id': '07558.jpg', 'description': ' In the satellite image, there is a gray vehicle {ID_1} with some trees at the top right corner of the scene.'}

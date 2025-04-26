@@ -1,0 +1,3 @@
+[2025-04-09 01:49:54,891] [INFO] [real_accelerator.py:110:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+Loading GeoChat......
+printing first question: {'image_id': 'train_5007_0017', 'question': '3 airplanes at the right', 'ground_truth': [[[584.0, 337.0], [619.0, 313.0], [601.0, 282.0], [565.0, 304.0]], [[553.0, 287.0], [592.0, 262.0], [573.0, 229.0], [534.0, 254.0]], [[517.0, 237.0], [555.0, 214.0], [534.0, 181.0], [498.0, 204.0]]], 'dataset': 'FAST', 'question_id': 'fast_6217', 'type': 'ref', 'obj_ids': [1, 2, 3], 'size_group': 'small'}

@@ -1,0 +1,7 @@
+[2025-04-06 22:48:55,247] [INFO] [real_accelerator.py:110:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+Loading GeoChat......
+printing first question: {'question_id': 'denseresidential/denseresidential31.tif', 'image': 'denseresidential/denseresidential31.tif', 'text': 'Classify the given image in one of the following classes. Classes: dense residential, river, overpass, medium residential, tennis court, agricultural, intersection, buildings, freeway, runway, chaparral, storage tanks, parking lot, sparse residential, beach, forest, baseball diamond, golf course, mobile home park, airplane, harbor. \nAnswer in one word or a short phrase.', 'ground_truth': 'dense residential'}
+correct: 1763
+incorrect: 337
+Total: 2100
+Acc: 0.8395238095238096
