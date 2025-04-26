@@ -97,7 +97,10 @@ Options to note:
 - 
 ## Evaluation
 
-We evaluate GeoChat on a diverse set of 7 benchmarks. To ensure the reproducibility, we evaluate the models with greedy decoding. We do not evaluate using beam search to make the inference process consistent with the chat demo of real-time outputs.
+Evaluationscripts are eval.sh and q_eval.sh for some of the tests
 See [Evaluation.md](https://github.com/mbzuai-oryx/GeoChat/blob/main/docs/Evaluation.md).
+[Dataset Download](https://drive.google.com/drive/folders/1xuscNegEnRX-bliGzEwKOkO3t-t0olHN?usp=drive_link)
+
+
 
 
